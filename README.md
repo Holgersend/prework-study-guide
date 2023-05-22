@@ -21,7 +21,7 @@ N/A
 
 ## License
 
-Distributed under the MIT License. See <link rel="license" href="./README.md"> for more information.
+Distributed under the MIT License. See the LICENSE.txt for more information.
 
 ---
 
